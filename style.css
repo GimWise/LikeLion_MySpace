@@ -31,10 +31,6 @@ td {
   text-align: center;
 }
 
-.navbar {
-  height: 80px;
-}
-
 .container {
   max-width: 700px;
   margin: 10px auto;
